@@ -1,0 +1,19 @@
+{
+    "name": "Nate Sanchez",
+    "website": "NateSanchez.com",
+    "linkedin": "https://www.linkedin.com/in/nsanchez202/",
+    "github": "natesanchez",
+    "email": "NSanchez@USA.com",
+    "resume": "https://drive.google.com/file/d/1vKrP5iSMdkRaoSLHUJWsGeOAyHFiFnk1/view",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress"
+    ]
+}
